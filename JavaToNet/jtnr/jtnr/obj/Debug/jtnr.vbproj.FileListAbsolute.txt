@@ -1,0 +1,13 @@
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\bin\Debug\jtnr.exe.config
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\bin\Debug\jtnr.exe
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\bin\Debug\jtnr.pdb
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\bin\Debug\jtnr.xml
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\obj\Debug\jtnr.Resources.resources
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\obj\Debug\jtnr.vbproj.GenerateResource.Cache
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\obj\Debug\jtnr.exe
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\obj\Debug\jtnr.xml
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\jtnr\jtnr\obj\Debug\jtnr.pdb
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\JavaToNet\bin\jtnr.exe.config
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\JavaToNet\bin\jtnr.exe
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\JavaToNet\bin\jtnr.pdb
+K:\HP\Desktop\RyanProjects\Hackathons\YHack\JavaToNet\JavaToNet\bin\jtnr.xml

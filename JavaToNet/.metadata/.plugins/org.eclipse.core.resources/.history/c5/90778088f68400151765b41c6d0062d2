@@ -1,0 +1,9 @@
+
+public class Core {
+	public static String Execute(String code){
+		String output = "";
+		String arg = "\"" + code + "\"";
+		
+		return output;
+	}
+}

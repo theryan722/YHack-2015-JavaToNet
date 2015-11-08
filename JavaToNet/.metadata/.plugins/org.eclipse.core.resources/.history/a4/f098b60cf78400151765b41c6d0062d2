@@ -1,0 +1,21 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+
+public class Core {
+	public static void Execute(String code){
+
+		String arg = "\"" + code + "\"";
+		try{
+		      String line;
+		      Process p = Runtime.getRuntime().exec(System.getenv("windir") +"\\system32\\"+"tree.com /A");
+		      BufferedReader input = new BufferedReader(new InputStreamReader(p.getInputStream()));
+		      while ((line = input.readLine()) != null) {
+		        System.out.println(line);
+		      }
+		      input.close();
+		    }catch(Exception err){
+		      err.printStackTrace();
+		    }
+	}
+}

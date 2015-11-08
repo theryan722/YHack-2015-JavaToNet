@@ -1,0 +1,9 @@
+
+public class Core {
+	public static String Execute(String code, boolean captureoutput){
+		String output = "";
+		
+		
+		return output;
+	}
+}
